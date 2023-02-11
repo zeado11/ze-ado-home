@@ -1,0 +1,443 @@
+*{
+          padding: 0px;
+          margin: 0px;
+          background-color: white;
+}
+a
+{
+  text-decoration: none;
+  background-color: rgb(245, 245, 245);
+}
+
+h1{
+  width: 1230px;
+  margin-top: -110px;
+  margin-left: 115px;
+  text-align: center;
+  float: left;
+  height: 50px;
+  font-size: 30px;
+  padding-top: 15px;
+  color: white;
+  background-color: rgb(70, 248, 0);
+}
+
+h2{
+  width: 1230px;
+  margin-top: -44px;
+  margin-left: 115px;
+  text-align: center;
+  float: left;
+  font-size: 20px;
+  height: 30px;
+  font-size: 20px;
+  padding-top: 9.5px;
+  color: white;
+  background-color: rgb(70, 248, 0);
+}
+
+ul{
+  padding: 0px;
+   margin: 0 0 0 250px;
+   height: 80px;
+   list-style: none;
+   margin-left: 0px;
+   margin-top: -3px;
+}
+
+li{
+   float: left;
+}
+
+li a {
+   width: 182px;
+   height: 25px;
+   position: relative;
+   display: block;
+   border: 1px;
+   padding: 5px;
+   padding-top: 10px ;
+   background-color: rgb(70, 248, 0);
+   text-decoration: none;
+   font-family: Arial;
+   color: white;
+   text-align: center;
+}
+
+li a:hover{
+  background: white;
+  color: rgb(70, 248, 0);
+  text-transform: none;
+  border-color:rgb(70, 248, 0);
+  border-width: 1px;
+}
+
+#divtopic{
+  font-size: 25px;
+  text-align: center;
+  width: 550px;
+  float: right;
+  border: 10cm;
+  border-color: rgb(70, 248, 0);
+  margin-top: -10px;
+  border-radius: 0px;
+  margin-right: 390px;
+  height: 55px;
+  background-color: white;
+  color: rgb(70, 248, 0);
+}
+
+
+#divg1{
+margin-top: 70px;
+margin-left: 95px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: rgb(225, 225, 225);
+font-size: 15px;
+text-align: center;
+}
+#divg2{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg3{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg4{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg5{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg1a{
+margin-top: 25px;
+margin-left: 95px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+.box:hover{
+  transform: scale(1.9);
+  transform: scaleY(5);
+  
+}
+
+
+#divg1{
+margin-top: 70px;
+margin-left: 95px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: rgb(225, 225, 225);
+font-size: 15px;
+text-align: center;
+}
+#divg2{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg3{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg4{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg5{
+margin-top: 25px;
+margin-left: 75px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+#divg1a{
+margin-top: 25px;
+margin-left: 95px;
+float: left;
+width: 175px;
+padding-top: 50px;
+height: 70px;
+background-color: rgb(225, 225, 225);
+color: white;
+font-size: 15px;
+text-align: center;
+}
+
+
+#divp {
+          font-size: 20px;
+          color: rgb(70, 248, 0);
+          margin-top: 10px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divp1 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divp2 {
+          font-size: 15px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divp3 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divp4 {
+          font-size: 15px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        
+        #divd {
+          font-size: 20px;
+          color: rgb(70, 248, 0);
+          margin-top: 15px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divd1 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divd2 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divd3 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        
+        
+        #divt {
+          font-size: 20px;
+          color: rgb(70, 248, 0);
+          margin-top: 15px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divt1 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divt2 {
+          font-size: 15px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divt3 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divt4 {
+          font-size: 15px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divt5 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divt6 {
+          font-size: 15px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divt7 {
+          font-size: 15px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          width: 500px;
+          text-align: left;
+        }
+        
+        #divc {
+          font-size: 20px;
+          color: rgb(70, 248, 0);
+          margin-top: 15px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divc1 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divc2 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+        #divc3 {
+          font-size: 17px;
+          color: rgb(70, 248, 0);
+          margin-top: 1px;
+          margin-left: 300px;
+          float: left;
+          width: 500px;
+          text-align: left;
+        }
+
+
+
+.box:hover{
+  transform: scale(1.9);
+  transform: scaleY(5);
+}
+
